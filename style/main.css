@@ -1,0 +1,15 @@
+body {
+	background: url("../images/whitenoise-256x256.png");
+}
+
+#main {
+	margin-top: 2em;
+}
+
+.note-image {
+	border: 2px solid #E0E0E0;
+}
+
+.label-pill {
+	margin-right: 0.5em;
+}
